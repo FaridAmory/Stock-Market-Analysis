@@ -1,1 +1,1 @@
-# Stock-Market-Analysis
+I gathered Google stock price data to study the stock market. I made the stock market visualization interactively using the Python computer language. I also collected stock price data using Yahoo Finance's API.
